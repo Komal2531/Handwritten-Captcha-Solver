@@ -1,0 +1,5 @@
+Character set includes the following
+emojis : 'Checkmark : 1' , 'Cloud: 2' , 'Croissant: 3' , 'Heart: 4' , 'Laugh: 5' ,'Smile: 6' ,'Sun: 7'
+
+letters : 'A' , 'B' , 'C' , 'D' , 'E' , 'F' , 'G' , 'H' , 'J' , 'K' , 'M' , 'P' , 'R' , 'T' , 'W' , 'X' , 'b' , 'e' , 'h'
+
