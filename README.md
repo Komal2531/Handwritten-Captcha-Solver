@@ -5,7 +5,7 @@
 It is a machine learning program designed to convert handwritten captchas composed of English letters and emojis mapped to numbers into plain text. The program utilizes deep learning techniques and convolutional neural networks, leveraging the power of OpenCV for image processing.
 
 ## Demonstration
-![Demo GIF](https://github.com/Komal2531/Handwritten-Captcha-Solver/raw/main/Application%20Demo/captcha_web_demo.gif)
+![Demo GIF](https://github.com/Komal2531/Handwritten-Captcha-Solver/blob/master/Application%20Demo/captcha_web_demo.gif)
 
 ## Captcha Components
 
